@@ -1,10 +1,10 @@
 {
-    "name": "My plugin",
+    "name": "Catube",
     "version": "0.0.1",
-    "description": "Description of my_plugin.",
-    "author_name": "Me",
-    "author_url": "https://mywebsite.me",
-    "plugin_url": "https://github.com/my_name/my_plugin",
-    "tags": "cat, template, example",
-    "thumb": "https://raw.githubusercontent.com/my_repo_path/my_plugin.png"
+    "description": "Description of catube.",
+    "author_name": "Nicola Corbellini",
+    "author_url": "",
+    "plugin_url": "https://github.com/Furrmidable-Crew/CaTube",
+    "tags": "Cat, RabbitHole, DocumentsLoading",
+    "thumb": "https://raw.githubusercontent.com/my_repo_path/catube.png"
 }

@@ -1,10 +1,10 @@
 {
-    "name": "Catube",
+    "name": "IngestAnything",
     "version": "0.0.1",
-    "description": "Description of catube.",
+    "description": "This plugin extends the RabbitHole's capabilities and allows to ingest a handful of extra formats",
     "author_name": "Nicola Corbellini",
     "author_url": "",
-    "plugin_url": "https://github.com/Furrmidable-Crew/CaTube",
-    "tags": "Cat, RabbitHole, DocumentsLoading",
-    "thumb": "https://raw.githubusercontent.com/my_repo_path/catube.png"
+    "plugin_url": "https://github.com/Furrmidable-Crew/IngestAnything",
+    "tags": "cat, rabbit_hole, file_ingestion",
+    "thumb": ""
 }

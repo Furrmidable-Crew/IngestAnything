@@ -1,10 +1,10 @@
 {
     "name": "IngestAnything",
-    "version": "0.0.1",
-    "description": "This plugin extends the RabbitHole's capabilities and allows to ingest a handful of extra formats",
+    "version": "0.0.2",
+    "description": "This plugin extends the RabbitHole's capabilities and allows ingesting a handful of extra formats.",
     "author_name": "Nicola Corbellini",
     "author_url": "",
     "plugin_url": "https://github.com/Furrmidable-Crew/IngestAnything",
     "tags": "cat, rabbit_hole, file_ingestion",
-    "thumb": ""
+    "thumb": "https://raw.githubusercontent.com/Furrmidable-Crew/IngestAnything/main/logo.png"
 }

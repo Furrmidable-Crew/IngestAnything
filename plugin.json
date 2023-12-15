@@ -1,6 +1,6 @@
 {
     "name": "IngestAnything",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "This plugin extends the RabbitHole's capabilities and allows ingesting a handful of extra formats.",
     "author_name": "Nicola Corbellini",
     "author_url": "",

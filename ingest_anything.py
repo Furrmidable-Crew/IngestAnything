@@ -3,7 +3,7 @@ from langchain.document_loaders.parsers.msword import MsWordParser
 
 from cat.mad_hatter.decorators import hook
 
-from parsers import YoutubeParser, TableParser, DocxParser, JSONParser
+from .parsers import YoutubeParser, TableParser, JSONParser
 
 
 @hook
